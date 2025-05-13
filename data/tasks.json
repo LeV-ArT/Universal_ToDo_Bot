@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "user_id": 1649740212,
+            "title": "homework",
+            "description": "",
+            "deadline": "25/12/2025 14:30",
+            "done": true
+        },
+        {
+            "id": 2,
+            "user_id": 1649740212,
+            "title": "jumping",
+            "description": "",
+            "deadline": "13/05/2025 23:30",
+            "done": false
+        },
+        {
+            "id": 3,
+            "user_id": 1649740212,
+            "title": "running",
+            "description": "",
+            "deadline": "13/05/2025 23:22",
+            "done": true
+        }
+    ]
+}
